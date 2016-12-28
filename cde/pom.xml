@@ -15,5 +15,7 @@
   	<module>CDEName</module>
   	<module>CDEPhone</module>
   	<module>CDEScore</module>
+  	<module>sample</module>
+  	<module>sample2</module>
   </modules>
 </project>

@@ -6,4 +6,14 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>CDEName</artifactId>
+	<dependencies>
+
+		<dependency>
+			<groupId>CDECommons</groupId>
+			<artifactId>CDECommons</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
+
+	</dependencies>
 </project>
