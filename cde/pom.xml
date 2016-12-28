@@ -5,21 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>CDEAddress</module>
-  	<module>CDECommons</module>
-  	<module>CDEDob</module>
-  	<module>CDEDomain</module>
-  	<module>CDEEmail</module>
-  	<module>CDEIds</module>
-  	<module>CDEIO</module>
-  	<module>CDEName</module>
-  	<module>CDEPhone</module>
-  	<module>CDEScore</module>
-  	<module>sample</module>
-  	<module>sample2</module>
-  	<module>Mod1</module>
-  	<module>mod2</module>
-  	<module>mod3</module>
-  	<module>Mod4</module>
+  	
   </modules>
 </project>
