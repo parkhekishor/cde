@@ -17,5 +17,9 @@
   	<module>CDEScore</module>
   	<module>sample</module>
   	<module>sample2</module>
+  	<module>Mod1</module>
+  	<module>mod2</module>
+  	<module>mod3</module>
+  	<module>Mod4</module>
   </modules>
 </project>
