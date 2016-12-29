@@ -1,4 +1,4 @@
-package org.cde.cdeaddress;
+package org.cde.cdeaddress.in.impl;
 
 /**
  * Hello world!
