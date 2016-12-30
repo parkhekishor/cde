@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.cde.cdeaddress.AddressCleansingService;
 import org.cde.cdeaddress.AddressStandardizationService;
+import org.cde.cdedomain.exceptions.CDEGenricException;
 import org.cde.domain.entity.EntityAddress;
 import org.cde.domain.entity.EntityAddressRaw;
 
@@ -16,7 +17,7 @@ public class AddressStandardizationServiceImpl implements AddressStandardization
 		}
 	}
 
-	public void standardize(EntityAddress address) {
+	public void standardize(EntityAddress address) throws CDEGenricException {
 
 		AddressCleansingService cleasningService = new AddressCleansingServiceImpl();
 		EntityAddressRaw addressRaw = address.getAddressRaw();
