@@ -1,1 +1,6 @@
 /target/
+*.jar
+*.war
+*.ear
+*.class
+*.txt
