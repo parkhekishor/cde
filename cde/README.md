@@ -7,7 +7,7 @@ CDE : Customer Deduplication engine , is a generic open source entity resolution
 
 ## Motivation
 
-Identifying the customer with fuzzy data element is always a challenging problem and the solution in the market are very costly , the whole purpose of the CDE is to solve the problem with minimal or no investment.
+Identifying the customer with fuzzy data element is always a challenging problem and the solution in the market are very costly , the whole purpose of the CDE is to solve the problem with minimal or no investment. Solution is designed around Big data technologies & machine learning such as Spark Core, SparkML and  Solr.
 
 ## Installation
 
