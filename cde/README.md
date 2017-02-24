@@ -1,6 +1,6 @@
 ## Synopsis
 
-CDE : Customer Deduplication engine , is a generic open source entity resolution solution based on demographic information of customer entity , can be leveraged in multiple domain such as finance , hospitality,  Retail & Medical. This independent component can be a part of Master data management solution. Solution is designed around Big data technologies & machine learning such as Spark Core, SparkML and Solr.
+CDE : Customer Deduplication engine , is a generic open source entity resolution solution based on demographic information of customer entity , can be leveraged in multiple domains such as finance , hospitality,  Retail & Medical. This independent component can be a part of Master data management solution. Solution is designed around Big data technologies & machine learning such as Spark Core, SparkML and Solr.
 
 
 ## Code Example
